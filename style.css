@@ -1,3 +1,7 @@
 h1 { font: "Times New Roman"}
-h1 {color: red; }
-body {color: red; }
+h1 {color: blue; }
+body {color: dark blue}
+h2 {color: purple}
+body {margin 50px 25px 50px 50px}
+h1 {margin 75px}
+h2 {font: italics}
